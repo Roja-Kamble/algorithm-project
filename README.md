@@ -1,4 +1,4 @@
-# algorithm-project
+# Algorithm-Project-Knight-Tour
 
 **Knight tour problem**
 
@@ -80,12 +80,15 @@ then from the path which has been setup and our main.cpp file is present, for ex
 Time complexity is O(N^2) as you can see in the middle position it does follow the O(N^2) curve closely, whereas, for the start position of (0,0) since we do not have enough data set to visualize the full curve, it loosely follows O(N^2) curve.
 
 **Data sets for experiment**
+
 1) Board size: 5x5, 6x6, 7x7, 8x8
 2) Position of teh knight
 
 **Goals**
+
 1) Explore the knight tour for different board sizes from corner start position
 2) Explore the knight tour for different board sizes from middle start position
 
 **Results**
+
 We were able to print the path of knight tour obtained for the defined goals.
