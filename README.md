@@ -66,7 +66,7 @@ Time for execution for 5 size: 169805
 #define xPos 0
 #define yPos 0
 
-Code can be run into online compiler. But it will be inconsisent to measure the time complexity as the compiler takes available server during runtime for execution.
+We implemented our project in C++ language. Code can be run into online compiler. But it will be inconsisent to measure the time complexity as the compiler takes available server during runtime for execution.
 We implemented in VScode software. Where time complexity is consistent and the average time is considered to plot the graph for depiting the time complexity.
 There are few commands to be used in VScode to run the code.
 
